@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">声波通信</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="send_signal">发送信号</string>
+    <string name="recv_signal">接收信号</string>
+    <string name="is_save">保存数据</string>
+</resources>
